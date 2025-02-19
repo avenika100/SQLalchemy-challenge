@@ -1,5 +1,10 @@
 # SQLalchemy-challenge
 
+Important 
+Code is in climate_starter.ipynb folder
+app.py code needs to be run in an integrated terminal by typing "python app.py"
+once you get the link copy and past it in the web browser (chrome or safari). 
+
 Instructions
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
 

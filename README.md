@@ -2,8 +2,8 @@
 
 Important 
 
-Code is in climate_starter.ipynb folder
-app.py code needs to be run in an integrated terminal by typing "python app.py"
+Code is in climate_starter.ipynb folder.
+app.py code needs to be run in an integrated terminal by typing "python app.py".
 once you get the link copy and past it in the web browser (chrome or safari). 
 
 Instructions
